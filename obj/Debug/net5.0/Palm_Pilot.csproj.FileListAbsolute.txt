@@ -1,0 +1,16 @@
+C:\Users\jackv\Desktop\Coding Projects\Repos\Palm_Pilot\obj\Debug\net5.0\Palm_Pilot.csprojAssemblyReference.cache
+C:\Users\jackv\Desktop\Coding Projects\Repos\Palm_Pilot\obj\Debug\net5.0\Palm_Pilot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackv\Desktop\Coding Projects\Repos\Palm_Pilot\obj\Debug\net5.0\Palm_Pilot.AssemblyInfoInputs.cache
+C:\Users\jackv\Desktop\Coding Projects\Repos\Palm_Pilot\obj\Debug\net5.0\Palm_Pilot.AssemblyInfo.cs
+C:\Users\jackv\Desktop\Coding Projects\Repos\Palm_Pilot\obj\Debug\net5.0\Palm_Pilot.csproj.CoreCompileInputs.cache
+C:\Users\jackv\Desktop\Coding Projects\Repos\Palm_Pilot\bin\Debug\net5.0\Palm_Pilot.exe
+C:\Users\jackv\Desktop\Coding Projects\Repos\Palm_Pilot\bin\Debug\net5.0\Palm_Pilot.deps.json
+C:\Users\jackv\Desktop\Coding Projects\Repos\Palm_Pilot\bin\Debug\net5.0\Palm_Pilot.runtimeconfig.json
+C:\Users\jackv\Desktop\Coding Projects\Repos\Palm_Pilot\bin\Debug\net5.0\Palm_Pilot.runtimeconfig.dev.json
+C:\Users\jackv\Desktop\Coding Projects\Repos\Palm_Pilot\bin\Debug\net5.0\Palm_Pilot.dll
+C:\Users\jackv\Desktop\Coding Projects\Repos\Palm_Pilot\bin\Debug\net5.0\ref\Palm_Pilot.dll
+C:\Users\jackv\Desktop\Coding Projects\Repos\Palm_Pilot\bin\Debug\net5.0\Palm_Pilot.pdb
+C:\Users\jackv\Desktop\Coding Projects\Repos\Palm_Pilot\obj\Debug\net5.0\Palm_Pilot.dll
+C:\Users\jackv\Desktop\Coding Projects\Repos\Palm_Pilot\obj\Debug\net5.0\ref\Palm_Pilot.dll
+C:\Users\jackv\Desktop\Coding Projects\Repos\Palm_Pilot\obj\Debug\net5.0\Palm_Pilot.pdb
+C:\Users\jackv\Desktop\Coding Projects\Repos\Palm_Pilot\obj\Debug\net5.0\Palm_Pilot.genruntimeconfig.cache
