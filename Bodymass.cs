@@ -12,10 +12,10 @@ namespace Palm_Pilot
             int bmi;
 
             //prompt user for weight in pounds and then height in inches
-            Console.WriteLine("Enter your height (in inches): ");
+            Console.WriteLine("Please enter your height (in inches): ");
             height = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Enter your weight in pounds: ");
+            Console.WriteLine("Please enter your weight (in pounds): ");
             weight = Convert.ToInt32(Console.ReadLine());
 
             bmi = (weight * 703)/(height * height);
